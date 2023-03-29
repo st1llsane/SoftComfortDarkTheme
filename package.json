@@ -1,46 +1,46 @@
 {
-  "name": "softcomfortdark",
-  "displayName": "Soft Comfort Dark",
-  "version": "1.0.0",
-  "description": "Soft dark color theme",
-  "author": "St1llSane2288",
-  "publisher": "St1llSane2288",
-  "license": "MIT",
-  "keywords": [
-    "theme",
-    "dark theme",
-    "soft",
-    "comfort",
-    "soft comfort",
-    "st1llsane",
-    "green",
-    "green theme",
-    "pink",
-    "pink theme",
-    "blue",
-    "blue theme"
-  ],
-  "categories": [
-    "Themes"
-  ],
-  "engines": {
-    "vscode": "^1.22.0"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Soft Comfort Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Soft Comfort Dark-color-theme.json"
-      }
-    ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/St1llSane/SoftComfortDarkTheme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/St1llSane/SoftComfortDarkTheme/issues"
-  },
-  "homepage": "https://github.com/St1llSane/SoftComfortDarkTheme#readme"
+	"name": "softcomfortdark",
+	"displayName": "Soft Comfort Dark",
+	"version": "1.1.0",
+	"description": "Soft dark color theme",
+	"author": "St1llSane2288",
+	"publisher": "St1llSane2288",
+	"license": "MIT",
+	"keywords": [
+		"theme",
+		"dark theme",
+		"soft",
+		"comfort",
+		"soft comfort",
+		"st1llsane",
+		"green",
+		"green theme",
+		"pink",
+		"pink theme",
+		"blue",
+		"blue theme"
+	],
+	"categories": [
+		"Themes"
+	],
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Soft Comfort Dark",
+				"uiTheme": "vs-dark",
+				"path": "/themes/Soft Comfort Dark-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/St1llSane/SoftComfortDarkTheme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/St1llSane/SoftComfortDarkTheme/issues"
+	},
+	"homepage": "https://github.com/St1llSane/SoftComfortDarkTheme#readme"
 }
